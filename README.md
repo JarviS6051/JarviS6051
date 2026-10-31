@@ -1,44 +1,83 @@
-# Yash Bagga
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Yash+Bagga+%C2%B7+Backend-first+Engineer;Go+%C2%B7+PostgreSQL+%C2%B7+Flutter+%C2%B7+React+Native;Building+reliable+systems+with+clear+user+impact" alt="Typing SVG" />
+  <br />
+  <a href="https://www.linkedin.com/in/yash-bagga-65184822a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yash-bagga-backend-portfolio-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yashb150603@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-**Backend-first Software Engineer | Go · PostgreSQL · REST APIs · Docker · GCP**  
-Flutter and React Native are my secondary specialties.
+<br />
 
-I am a Delhi Technological University graduate who builds reliable APIs, database-backed systems, durable background processing, and production-ready mobile applications.
+> Backend-first software engineer who builds reliable APIs, data systems, and production-ready mobile experiences.  
+> Based in New Delhi · Open to backend, full-stack, and mobile engineering opportunities.
 
-## Current work
+## Selected work
 
-I am a **Software Engineer at Kumpanio Private Limited**, shipping onboarding and KYC, discovery, bookings, Cashfree payments, Socket.IO chat, notifications, and deep links. The app stack includes React Native/Expo, tRPC, TanStack Query, Better Auth, Zod, Zustand, Sentry, and PostHog.
-
-## Selected engineering
+<table>
+<tr>
+<td width="50%">
 
 ### [Repex — engineering case study](https://medicalapp-503201.web.app/)
+Healthcare record-management system built end to end.
 
-A healthcare record-management application engineered end to end with **Go/Gin, PostgreSQL 18, Flutter, Docker, GCP/GCS, Terraform, and Gemini**.
+`Go/Gin` · `PostgreSQL` · `Flutter` · `Docker` · `GCP` · `Terraform`
 
-- Private report uploads, authentication, family profiles, notifications, and secure account controls
-- Durable PostgreSQL workers using leases, retries, claim tokens, and `FOR UPDATE SKIP LOCKED`
-- Encrypted backup/restore verification, CI quality gates, privacy-safe logging, and permanent deletion workflows
-- Production-configured engineering case study; not publicly deployed for real medical data
+Private uploads, durable PostgreSQL workers, encrypted backup/restore verification, and privacy-conscious account controls.
+
+</td>
+<td width="50%">
 
 ### [ExKuu — Android application](https://exkuu.en.uptodown.com/android)
+AI-assisted career-valuation prototype.
 
-An AI-assisted career-valuation prototype built with **Expo, React Native, TypeScript, Supabase/PostgreSQL, FastAPI, and XGBoost**.
+`React Native` · `TypeScript` · `Supabase` · `FastAPI` · `XGBoost`
 
-- Three role-specific models for salaried professionals, freelancers, and students
-- Trained and evaluated on **9,000 synthetic rows**, with confidence ranges, percentiles, and SHAP explanations
-- Supabase authentication, role-based profiles, valuation persistence, and contribution credits
+Role-specific valuation models, persisted profiles, and explainable results based on 9,000 synthetic training rows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### [Cabby — public repository](https://github.com/JarviS6051/Cabby)
+Slack-native cab-sharing assistant.
 
-A Slack-native cab-sharing assistant using **TypeScript, Bolt, Google Places, Gemini, SQLite, Google Sheets, and MCP**, with matching, approval, cancellation, group-chat, and safety-check flows.
+`TypeScript` · `Bolt` · `Google Places` · `Gemini` · `SQLite` · `MCP`
 
-## Core stack
+Matching, approvals, cancellation, group-chat, and safety-check flows.
 
-- **Backend:** Go, Gin, PostgreSQL, REST APIs, JWT, FastAPI, Node.js
-- **Mobile:** Flutter, Dart, React Native, Expo, TypeScript
-- **Cloud and reliability:** Docker, GCP, GCS, Terraform, CI/CD, Sentry, PostHog
-- **Data and AI:** SQL, XGBoost, SHAP, Gemini, Supabase
+</td>
+<td width="50%">
 
-## Connect
+### Current engineering focus
+At Kumpanio, I build React Native/Expo product workflows across onboarding, KYC, bookings, payments, real-time chat, push notifications, and deep links.
 
-[LinkedIn](https://www.linkedin.com/in/yash-bagga-65184822a/) · [Email](mailto:yashb150603@gmail.com)
+`React Native` · `tRPC` · `TanStack Query` · `Zod` · `Zustand` · `Sentry`
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=38BDF8" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=38BDF8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React Native" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-0F172A?style=for-the-badge&logo=googlecloud&logoColor=38BDF8" alt="Google Cloud" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JarviS6051&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarviS6051&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Quiet systems. Thoughtful mobile experiences. Clear ownership.</sub>
+</div>
