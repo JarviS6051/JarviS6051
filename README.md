@@ -37,10 +37,4 @@ Matching, approvals, cancellation, group-chat, and safety-check flows for shared
   <img src="https://skillicons.dev/icons?i=go,postgres,flutter,react,ts,docker,gcp,git&theme=dark&perline=8" alt="Go, PostgreSQL, Flutter, React, TypeScript, Docker, Google Cloud, and Git" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JarviS6051&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
-</div>
-
 <div align="center"><sub>Quiet systems. Thoughtful mobile experiences. Clear ownership.</sub></div>
